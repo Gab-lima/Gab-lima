@@ -19,8 +19,7 @@
     
 </div>
 
-  ## <img align="right" height="150em" src="https://64.media.tumblr.com/0f035d542b5340b14da558c700a7d983/8b1e396f12aab916-38/s640x960/3fdf90e60c44fb29cd490033c702ab576500a78a.gifv"/>
-
+  ## 
   
   <div> 
   <a  href = "mailto:gabriela.rodrigues1411@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
