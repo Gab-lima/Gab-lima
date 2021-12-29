@@ -3,7 +3,7 @@
 
 
 - 💻 Experiência com Ux-Writer focado em ChatBots.
-- 📚 Estou estudando Full Stack Node.js na Digital House 
+- 📚 Estudando Full Stack Node.js e React.js.
 
 
 <div align="center">
