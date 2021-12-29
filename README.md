@@ -2,7 +2,7 @@
 ## Olá! Eu sou a Gabriela Lima 
 
 
-- 💻 Atualmente trabalho com Ux-Writer
+- 💻 Experiência com Ux-Writer focado em ChatBots.
 - 📚 Estou estudando Full Stack Node.js na Digital House 
 
 
