@@ -4,7 +4,7 @@
 Estudante de Ciência da Computação, estou no meu 7º semestre.
 
 Desde o inicio de 2021 venho focando muito em Fronted, tenho habilidade com HTML, Css e javascript. No final do ano passado, mais especificamente em dezembro, comecei a estudar ReactJS, e uma das plataformas que tem me ajudado muito é o Ignite da Rocketseat.
-Esse ano já comecei com alguns freela e estou bem animada e creio que estou apta e ansiosa para meu primeiro emprego na área 😁🚀
+Esse ano já comecei com alguns freela e estou bem animada e creio que estou apta para meu primeiro emprego na área  e ansiosa 😁🚀
 
 - 💻 Experiência com Ux-Writer focado em ChatBots.
 - 📚 Estudando React.js
