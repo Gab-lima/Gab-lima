@@ -3,9 +3,6 @@
 
 Estudante de Ciência da Computação, estou no meu 7º semestre.
 
-Desde o inicio de 2021 venho focando muito em Frontend
-Fevereiro desse ano, dia 01/02 consegui meu primeiro emprego na área 😁🚀
-
 - 💻 Experiência com Ux-Writer focado em ChatBots.
 - 📚 Trabalhando com ReactJS e ReactNative.
 
