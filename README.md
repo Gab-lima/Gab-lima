@@ -3,8 +3,8 @@
 
 Estudante de Ciência da Computação, estou no meu 7º semestre.
 
-- 💻 Experiência com Ux-Writer focado em ChatBots.
 - 📚 Trabalhando com ReactNative e ReactJS.
+- 💻 Experiência com Ux-Writer focado em ChatBots.
 
 
 <div align="center">
