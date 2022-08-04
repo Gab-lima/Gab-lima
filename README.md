@@ -1,7 +1,7 @@
 
 ## Hello! Nice to have you on my profile. <img src="https://github.com/Alquipo/Alquipo/blob/main/img/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Venha+acompanhar+minha+evolução!;Vamos+juntos+nessa!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Venha+acompanhar+minha+evolução!;Estudos+focados+em+Frontend+💻)](https://git.io/typing-svg)
 ---
 
 Estudante de Ciência da Computação, estou no meu 8º e último semestre.
