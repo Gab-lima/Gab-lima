@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Venha+acompanhar+minha+evolução!;Estudos+focados+em+Frontend+💻)](https://git.io/typing-svg)
 ---
 
-Estudante de Ciência da Computação, estou no meu 8º e último semestre.
+Formada em Ciência da Computação. 
 
 - 📚 Trabalhando com ReactJS.
 - 💻 Experiência com Ux-Writer focado em ChatBots.
